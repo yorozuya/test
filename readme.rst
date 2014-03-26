@@ -3,7 +3,7 @@ Testing RestructuredText
 
 # Superscripts and subscripts
 
-  E = |mc2|
+  E = mc\ :sup:`2`
   water |H2O|
 
 
