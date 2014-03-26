@@ -3,6 +3,8 @@ Testing RestructuredText
 
 # Superscripts and subscripts
 
+  H<sup>2</sup>O using `<sup><\sup>` tags.
+
   E = mc\ :sup:`2`
   water H\ :sub:`2`\ O
 
