@@ -4,7 +4,7 @@ Testing RestructuredText
 # Superscripts and subscripts
 
   E = mc\ :sup:`2`
-  water |H2O|
+  water H\ :sub:`2`\ O
 
 
 .. |H2O| replace:: H\ :sub: `2`\ O
