@@ -5,12 +5,12 @@ Testing RestructuredText
 
   H<sup>2</sup>O using `<sup><\sup>` tags.
 
-  E = mc\ :sup:`2`
-  water H\ :sub:`2`\ O
+  E = |mc2|
+  water |H2O|
 
 
 .. |H2O| replace:: H\ :sub: `2`\ O
-.. |mc2| replace:: mc\ : sup:`2`
+.. |mc2| replace:: mc\ :sup:`2`
 
 
 .. code:: python
