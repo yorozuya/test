@@ -16,6 +16,7 @@ Testing RestructuredText
 
 
 .. code:: python
+  :number-lines: 5
 
   def foo(bar):
     return bar
