@@ -22,3 +22,7 @@ Testing RestructuredText
     return bar
 
 More text following the code block.
+
+.. math::
+	\frac{ \sum_{t=0}^{N} f(t,k) }{N}
+	
