@@ -19,3 +19,5 @@ Testing RestructuredText
 
   def foo(bar):
     return bar
+
+More text following the code block.
